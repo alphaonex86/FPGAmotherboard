@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CPU") (type "KiCad") (uri "${KIPRJMOD}/footprints/CPU.pretty") (options "") (descr "Project footprints"))
+	(lib (name "FPGA") (type "KiCad") (uri "${KIPRJMOD}/footprints/FPGA.pretty") (options "") (descr "Project footprints"))
+)

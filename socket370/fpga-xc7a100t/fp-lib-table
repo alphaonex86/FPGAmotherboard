@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Power") (type "KiCad") (uri "${KIPRJMOD}/footprints/Power.pretty") (options "") (descr "Project footprints"))
+	(lib (name "Socket370") (type "KiCad") (uri "${KIPRJMOD}/footprints/Socket370.pretty") (options "") (descr "Project footprints"))
+)

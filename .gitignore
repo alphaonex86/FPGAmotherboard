@@ -1,0 +1,22 @@
+# Whitelist: ignore everything, re-include KiCad sources only.
+*
+!*/
+!/.gitignore
+!/README.md
+!/LICENSE
+!*.kicad_pro
+!*.kicad_pcb
+!*.kicad_sch
+!*.kicad_sym
+!*.kicad_dru
+!*.kicad_mod
+!fp-lib-table
+!sym-lib-table
+!*.step
+!*.wrl
+# Never: intermediates, old designs, hidden files.
+archive*/
+old/
+review/
+.*
+!/.gitignore

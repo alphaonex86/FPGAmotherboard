@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CPU_Intel_386SX") (type "KiCad") (uri "${KIPRJMOD}/symbols/CPU_Intel_386SX.kicad_sym") (options "") (descr "Project symbols"))
+	(lib (name "FPGA_Altera_EP4CE22F17") (type "KiCad") (uri "${KIPRJMOD}/symbols/FPGA_Altera_EP4CE22F17.kicad_sym") (options "") (descr "Project symbols"))
+)

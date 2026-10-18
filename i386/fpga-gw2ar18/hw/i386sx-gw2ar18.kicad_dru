@@ -1,0 +1,10 @@
+(version 1)
+# A QFN-88 on 0.4 mm pitch cannot be escaped with the 1.0 mm-BGA geometry:
+# the router said so ("boxed in by static obstacles ... try a finer grid
+# and/or smaller clearance/track") and only closed the CPU bus at these numbers.
+(rule "min track" (constraint track_width (min 0.1016mm)))
+(rule "min clear" (constraint clearance (min 0.1016mm)))
+(rule "via"       (constraint via_diameter (min 0.30mm)))
+(rule "drill"     (constraint hole_size (min 0.15mm)))
+(rule "hole2hole" (constraint hole_to_hole (min 0.25mm)))
+(rule "annular"   (constraint annular_width (min 0.075mm)))
