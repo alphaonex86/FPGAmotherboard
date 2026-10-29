@@ -3003,7 +3003,7 @@
 			(uuid "a5956f5e-5dce-4344-baea-31bc33d7bbe6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Hanrun_HR911105A_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/RJ45_Hanrun_HR911105A_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5340,7 +5340,7 @@
 			(uuid "f9feed43-bc22-48da-990c-df9fe86c211e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6917,7 +6917,7 @@
 			(uuid "7d8b96dc-b706-4643-87b3-89c34e2c114e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9559,7 +9559,7 @@
 			(uuid "02f6df7c-1568-45a1-a118-19d923348388")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_6.3x6.3_H3.step"
+		(model "${KIPRJMOD}/3dmodels/L_6.3x6.3_H3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13262,7 +13262,7 @@
 			(uuid "d3e476ca-119d-4439-acb1-84c751ed3bb6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_6.3x6.3_H3.step"
+		(model "${KIPRJMOD}/3dmodels/L_6.3x6.3_H3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14852,7 +14852,7 @@
 			(uuid "0e94a952-0dea-4395-bf11-b2980d274cf4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22745,7 +22745,7 @@
 			(uuid "ee456004-6eed-4777-9b3a-920fef50d717")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FGG484.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28127,7 +28127,7 @@
 			(uuid "815963c9-4b71-4e20-9f70-56fca8c890cc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32123,6 +32123,17 @@
 			(uuid "4d35b4df-255f-47cd-ba27-aa46031edf24")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/Socket3_Am5x86_237.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "R_0402_1005Metric"
 		(layer "F.Cu")
@@ -36381,7 +36392,7 @@
 			(uuid "7810e52d-95f4-4689-9d4b-2a3a847b62b3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)

@@ -5304,7 +5304,7 @@
 			(uuid "5dba48ba-fc9b-4b7f-b724-c0afa26ff53c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5580,7 +5580,7 @@
 			(uuid "ac9cca43-2fff-40f6-9623-d63be3c34d5e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_6.3x6.3_H3.step"
+		(model "${KIPRJMOD}/3dmodels/L_6.3x6.3_H3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13135,7 +13135,7 @@
 			(uuid "45cdb659-f2c0-4d89-9edf-779be3ae3cda")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20090,7 +20090,7 @@
 			(uuid "95224196-b0f9-4c23-8472-2f904ca17c54")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_6.3x6.3_H3.step"
+		(model "${KIPRJMOD}/3dmodels/L_6.3x6.3_H3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21375,7 +21375,7 @@
 			(uuid "16d35ec1-97aa-42a5-a4d4-f50df64c6054")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26092,6 +26092,11 @@
 			(uuid "4d35b4df-255f-47cd-ba27-aa46031edf24")
 		)
 		(embedded_fonts no)
+			(model "${KIPRJMOD}/3dmodels/Socket3_Am5x86_237.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "R_0402_1005Metric"
 		(layer "F.Cu")
@@ -26941,7 +26946,7 @@
 			(uuid "e80920b0-c324-4d6d-8c5c-0991178a413d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_7.3x7.3_H4.5.step"
+		(model "${KIPRJMOD}/3dmodels/L_7.3x7.3_H4.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31294,7 +31299,7 @@
 			(uuid "32512f75-e1b5-4cda-9dc3-ba575dd363bd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSG324.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-324_15.0x15.0mm_Layout18x18_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32209,7 +32214,7 @@
 			(uuid "28fe2b48-9e22-4fc7-b203-2e6a4cd816bb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Hanrun_HR911105A_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/RJ45_Hanrun_HR911105A_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35612,7 +35617,7 @@
 			(uuid "55840a5b-9946-404e-b778-7ca319c425fd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.step"
 			(offset
 				(xyz 0 0 0)
 			)

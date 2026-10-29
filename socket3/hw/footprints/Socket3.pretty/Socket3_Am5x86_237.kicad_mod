@@ -255,4 +255,9 @@
   (pad "Z1817" thru_hole circle (at 22.8600 20.3200) (size 1.250 1.250) (drill 0.850) (layers "*.Cu" "*.Mask"))
   (pad "Z1818" thru_hole circle (at 22.8600 22.8600) (size 1.250 1.250) (drill 0.850) (layers "*.Cu" "*.Mask"))
   (pad "E5KEY" thru_hole circle (at 12.7000 -12.7000) (size 1.250 1.250) (drill 0.850) (layers "*.Cu" "*.Mask"))
+	(model "${KIPRJMOD}/3dmodels/Socket3_Am5x86_237.step"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )
